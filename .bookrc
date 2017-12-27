@@ -1,0 +1,17 @@
+{
+  "name": "viva-voce-in-physiology",
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "type": [
+    {
+      "HTML": "html",
+      "CSS": "css",
+      "JS": "js",
+      "HEAD": "html"
+    }
+  ]
+}
