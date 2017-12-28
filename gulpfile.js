@@ -214,7 +214,6 @@
       }, delay)
 
     browserSync.reload()
-    done()
     })
 
     gulp.watch(path.join('templates', '**.*'), obj => {
