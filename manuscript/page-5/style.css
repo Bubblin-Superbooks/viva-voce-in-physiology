@@ -1,0 +1,25 @@
+body {
+  background: #fff;
+  color: #777;
+}
+
+.philosopher {
+  font-size: 3vw;
+  float: right;
+}
+
+.footnote {
+  text-align: center;
+  height: 20vh;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  font-size: 2.5vw;
+}
+
+blockquote {
+  background: transparent;
+  margin: 0vw;
+  padding: 0;
+  border: none;
+}
