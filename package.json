@@ -19,7 +19,7 @@
   "dependencies": {
     "babel-preset-es2015": "6.24.1",
     "book-length": "1.0.4",
-    "browser-sync": "2.18.13",
+    "browser-sync": "2.24.6",
     "chalk": "2.3.0",
     "del": "3.0.0",
     "delayed": "1.0.1",
