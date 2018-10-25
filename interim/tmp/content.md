@@ -2,9 +2,9 @@
 
 
 
-## PART-I: Haematology
+### PART-I: Haematology
 
-### ABSOLUTE EOSINOPHIL COUNT:-
+#### ABSOLUTE EOSINOPHIL COUNT:-
 
 ###### Q.1 What is the normal value of absolute eosinophil count?
 
@@ -45,7 +45,7 @@ Ans. The eosinophil count gets raised in the allergic conditions.
 
 Ans. Bronchial asthma, skin diseases like urticaria, eczema and food sensitivity etc.
 
-### RETICULOCYTE COUNT:-
+#### RETICULOCYTE COUNT:-
 
 ######Que.1. What are the normal values of reticulocytes?
 
@@ -90,7 +90,7 @@ Ans. The reticulocytosis is observed physiologically in new born, hypoxic condit
 
 Ans. Late Normoblast [Late stage] of erythropoesis is reticulocyte.
  
-### ERYTHROCYTE SEDIMENTATION RATE:-
+#### ERYTHROCYTE SEDIMENTATION RATE:-
 
 ###### Que.1. Enumerate various factors that influence the process of sedimentation.
 
@@ -138,7 +138,7 @@ Ans. 1. ESR values have no diagnostic use, it has only prognostic value. E.g. if
 
 ---
 
-### SPECIFIC GRAVITY OF BLOOD:-
+#### SPECIFIC GRAVITY OF BLOOD:-
 
 ###### Que.1. Define specific gravity.
 
@@ -155,7 +155,7 @@ Water content
 Ans. Physiological factors:- SG of blood is low in females, in the afternoon, pregnancy and after high water-intake. It is comparatively high in males and at night.
 Pathological factors:- SG is high due to the loss of water such as vomiting and diarrhea.
 
-### DETERMINATION OF BLOOD GROUPS:-
+#### DETERMINATION OF BLOOD GROUPS:-
 
 ###### Que.1. What is the importance of blood grouping?
 
@@ -179,7 +179,7 @@ Ans. Coagulation:- It is the process by which blood changes from a liquid to a g
 Rauleaux formation:-  It refers to the piling of the RBCs one over the other.
 Agglutination:- It refers to the clumping of the RBCs. The phenomenon of agglutination is due to the interaction between the factors- antigen and antibody.
 
-### ARNETH COUNT:-
+#### ARNETH COUNT:-
 
 ###### Que.1. What is Arneth count? What are their different stages?
 
@@ -259,7 +259,7 @@ Ans.  1. Not bold enough prick to give free flowing of blood.
 5. Asymmetrical placement of cover slip.
 6. Under or over-charging of the chamber.
 
-### BLOOD INDICES:-
+#### BLOOD INDICES:-
 
 ###### Que.1. What is the importance of determining the values of blood indices or knowing haemogram?
 
@@ -284,7 +284,7 @@ RBCs whose MCHC value is below the normal range.
 
 Ans. MCHC values never exceed 38% because RBCs cannot hold haemoglobin beyond its saturation point i.e. metabolic limit of the cells haemoglobin forming mechanism, therefore, anemia can never be hyperchromic.
 
-### RBC COUNT:-
+#### RBC COUNT:-
 
 ###### Que.1. What is the normal RBC count?
 
@@ -394,9 +394,15 @@ Ans. If less acid is taken, the blood may not mix well and/or may clot. All the 
 Ans. The tap water cannot be used because its salt content may cause turbidity which will interfere with color matching.
 
 
-## Part-II: Human Experiments
 
-### Chapter 1
+
+
+
+
+
+### PART-II: Human Experiments
+
+#### Chapter 1
 Blood Pressure
 
 ###### Que.1.Define Blood Pressure. What do the diastolic and systolic blood pressure depend upon?
@@ -461,12 +467,12 @@ Pressure over heart due to distended abdomen increases “Heart rate”
 Increase epinephrine release from adrenal medulla (higher centre influence)
            Therefore, Systolic Blood Pressure increases by 5-6 mm Hg upto one hour after the meals. Diastolic Blood Pressure remains same or slightly decreases due to vasodilation in digestive organs.
 
-### B. Effect of Posture and Exercise on Blood Pressure
+#### B. Effect of Posture and Exercise on Blood Pressure
 
 ###### Que.1.How does the systolic and diastolic blood pressure change with posture? How would you explain these changes in time?
 
 Ans.1. Upon standing, peripheral pooling of blood occurs in dependent parts, venous return decreases, cardiac out decreases and systolic blood pressure decreases by 6- 23 mm Hg.
-The baroreceptor discharge decreases to maintain homeostasis. The diastolic blood pressure decreases ia vasomotor centre. 	Therefore, sudden standing increases diastolic blood pressure, if recorded within 30-60 seconds of change in posture after that it comes back to normal via the operation of baroreceptor reflex.
+The baroreceptor discharge decreases to maintain homeostasis. The diastolic blood pressure decreases ia vasomotor centre.   Therefore, sudden standing increases diastolic blood pressure, if recorded within 30-60 seconds of change in posture after that it comes back to normal via the operation of baroreceptor reflex.
 Long term standing is a stressful situation and sympathetic activity increases. The heart rate, peripheral vasoconstriction to increase venous return occurs. Diastolic blood pressure increases in standing position as compared to sitting. It is lowest in lying posture. Shavasan or yog nidra is prescribed to hypertensives.  
 
 ###### Que.2. How does heart rate and blood pressure vary with exercise and rest? What may be reason for this variation? 
@@ -483,7 +489,7 @@ Change in blood chemistry e.g. hypoxia, hypercapnia and academia
 Ans.In this condition, there occurs a fall in blood pressure with sudden change in posture. This is due to autonomic insufficiency. This condition is associated with dizziness, dimness of vision and fainting attacks.
 In elderly patients who have autonomic failure orthostatic hypotension results. Due to change of posture for example standing suddenly after sleep, attacks of dizziness may result due to peripheral pooling of blood due to gravity. The condition may be diagnosed and monitored by autonomic tilt table testing. The subject is asked to tense and relax his entire body parts the moment he gets up before stepping out of bed. 
 
-### Chapter 2
+#### Chapter 2
 Mosso’s Ergography
 
 
@@ -521,7 +527,7 @@ Intermittent claudication is a clinical symptom of pain in calf muscles that com
 
 
 
-### Chapter 3
+#### Chapter 3
 Electrocardiography (ECG)
 
 Que.1. Define Electrocardiogram, Electrocardiography and Electrocardiograph.
@@ -638,7 +644,7 @@ VR reflects the electrical activity of the cavity of the ventricles, whatever ma
 Ans 7. The SA Node (Sino atrial node) is known as the pacemaker of the heart. It is located on the posterior aspect of the heart at the junction of the superior vena cava (SVC) with right atrium (RA).
 It consists of thin elongated muscle fibers (approximately 1/3RD the size of heart muscle fibers),, rich in glycogen and mitochondria, fusiform in shape with longitudinal striations. These are called P cells or pacemaker cells. These fibers normally can generate and discharge impulses more rapidly than any other pacemaker tissue and their rate of discharge determines the rate at which the heart beats.
 
-### Chapter 4
+#### Chapter 4
 Stethography
 
 
@@ -672,9 +678,7 @@ Wash out carbon dioxide causes cerebral vasoconstriction and person may feel diz
 
 
 
-
-
-# Part-III: AMPHIBIAN EXPERIMENTS:-
+### PART-III: AMPHIBIAN EXPERIMENTS
 
 ###### Que.1 Define fatigue.
 
@@ -706,7 +710,7 @@ Height of contraction decreases
 Relaxation is inadequate and incomplete
 Latent, contraction and relaxation periods increase in duration.
 
-### MEASURING THE SPEED OF NERVE CONDUCTION
+#### MEASURING THE SPEED OF NERVE CONDUCTION
 
 ###### Que.1. Can a kymograph record bioelectric signals? Give reasons.
 

@@ -4,11 +4,11 @@
     "len": 5
   },
   "1": {
-    "h1": "PART-I: Haematology",
+    "h3": "PART-I: Haematology",
     "len": 3
   },
   "2": {
-    "h3": "ABSOLUTE EOSINOPHIL COUNT:-",
+    "h4": "ABSOLUTE EOSINOPHIL COUNT:-",
     "len": 3
   },
   "3": {
@@ -72,7 +72,7 @@
     "len": 12
   },
   "18": {
-    "h3": "RETICULOCYTE COUNT:-",
+    "h4": "RETICULOCYTE COUNT:-",
     "len": 2
   },
   "19": {
@@ -140,7 +140,7 @@
     "len": 9
   },
   "35": {
-    "h3": "ERYTHROCYTE SEDIMENTATION RATE:-",
+    "h4": "ERYTHROCYTE SEDIMENTATION RATE:-",
     "len": 3
   },
   "36": {
@@ -184,7 +184,7 @@
     "len": ""
   },
   "46": {
-    "h3": "SPECIFIC GRAVITY OF BLOOD:-",
+    "h4": "SPECIFIC GRAVITY OF BLOOD:-",
     "len": 4
   },
   "47": {
@@ -204,7 +204,7 @@
     "len": 44
   },
   "51": {
-    "h3": "DETERMINATION OF BLOOD GROUPS:-",
+    "h4": "DETERMINATION OF BLOOD GROUPS:-",
     "len": 4
   },
   "52": {
@@ -256,7 +256,7 @@
     "len": 74
   },
   "64": {
-    "h3": "ARNETH COUNT:-",
+    "h4": "ARNETH COUNT:-",
     "len": 2
   },
   "65": {
@@ -356,7 +356,7 @@
     "len": ""
   },
   "89": {
-    "h3": "BLOOD INDICES:-",
+    "h4": "BLOOD INDICES:-",
     "len": 2
   },
   "90": {
@@ -388,7 +388,7 @@
     "len": 31
   },
   "97": {
-    "h3": "RBC COUNT:-",
+    "h4": "RBC COUNT:-",
     "len": 2
   },
   "98": {
@@ -544,11 +544,11 @@
     "len": 20
   },
   "136": {
-    "h2": "Part-II: Human Experiments",
+    "h3": "PART-II: Human Experiments",
     "len": 4
   },
   "137": {
-    "h3": "Chapter 1",
+    "h4": "Chapter 1",
     "len": 2
   },
   "138": {
@@ -588,7 +588,7 @@
     "len": 490
   },
   "147": {
-    "h3": "B. Effect of Posture and Exercise on Blood Pressure",
+    "h4": "B. Effect of Posture and Exercise on Blood Pressure",
     "len": 9
   },
   "148": {
@@ -616,7 +616,7 @@
     "len": 103
   },
   "154": {
-    "h3": "Chapter 2",
+    "h4": "Chapter 2",
     "len": 2
   },
   "155": {
@@ -664,7 +664,7 @@
     "len": 106
   },
   "166": {
-    "h3": "Chapter 3",
+    "h4": "Chapter 3",
     "len": 2
   },
   "167": {
@@ -732,7 +732,7 @@
     "len": 102
   },
   "183": {
-    "h3": "Chapter 4",
+    "h4": "Chapter 4",
     "len": 2
   },
   "184": {
@@ -772,7 +772,7 @@
     "len": 97
   },
   "193": {
-    "h1": "Part-III: AMPHIBIAN EXPERIMENTS:-",
+    "h3": "PART-III: AMPHIBIAN EXPERIMENTS",
     "len": 4
   },
   "194": {
@@ -824,7 +824,7 @@
     "len": 28
   },
   "206": {
-    "h3": "MEASURING THE SPEED OF NERVE CONDUCTION",
+    "h4": "MEASURING THE SPEED OF NERVE CONDUCTION",
     "len": 6
   },
   "207": {
