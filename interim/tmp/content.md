@@ -28,26 +28,26 @@ It limits:
 Ans. Eosinophelia:- Increase in the number of eosinophils. Causes are-
 Allergic conditions like bronchial asthma
 Parasitic infestations e.g. worms
-       Skin diseases
+Skin diseases
 Eosinopenia:- Decrease in the number of eosinophils. Causes are:-
 Just after the injection of ACTH or corticosteroids
 Cushing syndrome
 
-######Que.4. Explain the clinical significance of Absolute Eosinophil Count.
+###### Que.4. Explain the clinical significance of Absolute Eosinophil Count.
 
-Ans. The absolute count helps in diagnosing the various conditions associated with a rise in eosinophil count [allergic conditions like bronchial asthma, parasitic infections associated with intestinal worms like hook worms, tape worms, round worms]
+Ans. The absolute count helps in diagnosing the conditions associated with a rise in eosinophil count. Examples: Allergic conditions like bronchial asthma, parasitic infections associated with intestinal worms like hook worm, tape worm, round worm.
 
-######Que.5. What happens to eosinophil count in allergic conditions?
+###### Que.5. What happens to eosinophil count in allergic conditions?
 
 Ans. The eosinophil count gets raised in the allergic conditions.
 
-######Que.6. Name some common allergy stages where the eosinophil count is high.
+###### Que.6. Name some common allergy stages where the eosinophil count is high.
 
 Ans. Bronchial asthma, skin diseases like urticaria, eczema and food sensitivity etc.
 
 #### RETICULOCYTE COUNT:-
 
-######Que.1. What are the normal values of reticulocytes?
+###### Que.1. What are the normal values of reticulocytes?
 
 Ans. Adults and children:
 0.2-2% [average 1%]
@@ -60,13 +60,12 @@ New born: 30-50%, decreases to 1-2% in the first week of life.
 Ans. Physiological: New born, hypoxic conditions [high altitude], menstruation
 Pathological: Haemorrhage, haemolytic anaemia, hereditary spherocytosis, sickle cell anaemia, thalassaemia
 
-######Que.3. How do you distinguish a reticulocyte from an RBC and a reticulocyte from WBC in this experiment?
+###### Que.3. How do you distinguish a reticulocyte from an RBC and a reticulocyte from WBC in this experiment?
  
 Ans. A reticulocyte :-
- Is a bit larger than the RBC
-Contains a central core of RNA which takes up basic stain.
+Is a bit larger than the RBC. Contains a central core of RNA which takes up basic stain.
 
-######Que.4. What is the clinical significance of this experiment?
+###### Que.4. What is the clinical significance of this experiment?
 
 Ans. The reticulocyte count is done in the following situations:- 
 To assess the red cell forming and releasing activity of the bone marrow.
@@ -110,25 +109,28 @@ Stage 3 of 10 min during which aggregated cells pack at the bottom of the tube.
 
 ###### Que3. Give the variations of ESR?
 
-Ans. Physiological variations:-
-Age:- Lowest value in new born because RBC count is more.
-Sex :- Higher value in females due to low RBCs count
-Pregnancy:- ESR increases as fibrinogen increases during pregnancy; this increases the rouleaux formation.
-Temperature :- ESR values are directly propotional to the temperature within the physiological limits. It acts by decreasing the blood viscosity.
-Pathological variations:-
-Increase in ESR is seen in condition which is associated with tissue damage or inflammation, the common conditions being:
-Anemia
-Any toxic or infective condition
-Malignancies
-Nephrosis as it is associated with increased fibrinogen, markedly decreased albumin and marked lipidemia which increases the globulin.
-Severe trauma
-Decrease in ESR value is found in:
-Polycythemia
-Leukemia
-Pernicious anemia
-Congestive heart failure
-Protein shock e.g. burns, dehydration
-Severe allergic reactions.
+Ans. 
+
+Physiological variations:-
+
+- Age:- Lowest value in new born because RBC count is more.
+- Sex :- Higher value in females due to low RBCs coun t 
+- Pregnancy:- ESR increases as fibrinogen increases during pregnancy; this increases the rouleaux formation.
+- Temperature :- ESR values are directly propotional to the temperature within the physiological limits. It acts by decreasing the blood viscosity.
+- Pathological variations:-
+- Increase in ESR is seen in condition which is associated with tissue damage or inflammation, the common conditions being:
+- Anemia
+- Any toxic or infective condition
+- Malignancies
+- Nephrosis as it is associated with increased fibrinogen, markedly decreased albumin and marked lipidemia which increases the globulin.
+- Severe trauma
+- Decrease in ESR value is found in:
+- Polycythemia
+- Leukemia
+- Pernicious anemia
+- Congestive heart failure
+- Protein shock e.g. burns, dehydration
+- Severe allergic reactions.
 
 ###### Que4. What is the clinical significance of this experiment?
 
@@ -209,7 +211,7 @@ Ans. The normal values of TLC are:-
 After birth- 18,000/mm3-20,000/mm3
 In adults- 4000/mm3-11,000/mm3 [average 7000/mm3]
 
-######Que.2. What is the clinical significance of this experiment?
+###### Que.2. What is the clinical significance of this experiment?
 
 Ans. The white blood corpuscles [WBCs; leucocytes] constitute the major defense system of the body against invasion by bacteria, viruses, fungi, toxins and other foreign invades. Their number increases or decreases in many diseases, particularly acute and chronic infections. This test is done as a part of CBC [Complete blood count] in cases of fever especially if the cause of fever is not immediately apparent.
 
@@ -327,7 +329,7 @@ Presence of grease on slide or cover slip.
 Personal error:-  Counting fewer cells than are actually present [due to inexperience]
 Statistical error:- It is inversely propotional to the square root of the number counted.
 
-######Que.6. Does the presence of WBCs in the counting chamber affect the RBC count?
+###### Que.6. Does the presence of WBCs in the counting chamber affect the RBC count?
 
 Ans. WBCs can be seen during the RBC count. They can be distinguished by their large size, uneven outline and halo around them. In humans, the ratio of RBCs:WBCs is 700:1. As the total number of RBCs counted in 5 medium-sized RBCs squares will be approximately 550, therefore hardly one WBC will come across in the field of counting. However, if counted, it will increase the RBC count by 10,000/µL of blood [because multiplication factor is 10,000
  
@@ -342,7 +344,7 @@ At the end of 1 year- 12.5 gm/dL
 Adults- i) Males- 14-18gm/dL [ average 15.5 gm/dL]
              ii) Females- 12-15.5 gm/dL [average 14.5gm/dL]
 
-######Que.2. What is the clinical importance of this experiment? Name the common conditions in which the Hb is high or low.
+###### Que.2. What is the clinical importance of this experiment? Name the common conditions in which the Hb is high or low.
 
 Ans. Clinical importance:-  The Hb concentration of blood is almost always estimated as part of routine laboratory investigation. The test is indicated as part of complete hematological study in all disorders of blood, especially in all types of anemias, leukemias, and in chronic diseases such as tuberculosis, chronic infections, malignancies, renal failure etc. and before all surgical operations.
 Causes of increased Hb-
@@ -440,24 +442,32 @@ The Second Heart sound is produced due to closure of “semilunar valves” and 
 ###### Q3. What is auscultatory gap?
 
 Ans 3. Auscultatory gap 
-This gap is seen in hypertensives. 
-It is seen while recording the blood pressure by auscultatory method. In such individuals, occasionally sound may disappear temporarily during phase I and II, covering a range of 40-50 mm Hg pressure and reappear again. The cause of this silent gap is not known.
- This causes the marked underestimation of systolic Blood pressure, if cuff pressure is only raised to a level at which sounds are absent.  . One may miss a hypertensive with blood pressure of 220/100 and wrongly record his blood pressure as 130/100 due to this. That is why it is essential to measure palpatory method first. In a camp of 1000 patients where screening is being done and time is limited, it is better to raise the cuff pressure to 220 mmHg to be on the safe side.
+This gap is seen in hypertensives. It is seen while recording the blood pressure by auscultatory method. In such individuals, occasionally sound may disappear temporarily during phase I and II, covering a range of 40-50 mm Hg pressure and reappear again. The cause of this silent gap is not known.
+
+This causes the marked underestimation of systolic Blood pressure, if cuff pressure is only raised to a level at which sounds are absent.  . One may miss a hypertensive with blood pressure of 220/100 and wrongly record his blood pressure as 130/100 due to this. That is why it is essential to measure palpatory method first. In a camp of 1000 patients where screening is being done and time is limited, it is better to raise the cuff pressure to 220 mmHg to be on the safe side.
 
 ###### Q 4. What are the physiological factors that effect blood pressure?
 
-Ans 4.Physiological factors affecting Blood Pressure
-Age: Both diastolic blood pressure and Systolic blood pressure (SBP) increase with age. Systolic Blood pressure increases more than diastolic blood pressure due to decreased distensiblity.
-Systolic blood pressure is 100+age in years
-However Diastolic blood pressure (DBP) decreases after 50-60 years of age 
-Sex: In females, before menopause Systolic Blood Pressure is 4-5 mm Hg less than that in males of same age. After menopause SBP is 4-5 mm Hg more than males of same age. It is due to estrogen hormone which prevents atherosclerosis and is protective.
-Body built: In obese individuals, the blood pressure gives high reading because there is more tissue present between cuff and artery. Higher pressure is needed to occlude the brachial.
-Climate: Exposure to cold produces vasoconstriction and increases peripheral resistance via hypothalamus. Diastolic which is dependent on peripheral resistance primarily increases. Systolic blood pressures also increase.
-When one shakes hands with a person during winter, his hands are cold due to peripheral vasoconstriction. This is a mechanism to conserve heat loss from periphery. Vasoconstriction decrease blood supply and heat loss by convection and radiation to environment is decreased. 
-Diurnal variation: Diurnal variation of 5-10 mmHg is common in Systolic Blood Pressure. Peak values of SBP are seen in afternoon and lowest during early hours of morning. Its reverse is observed in night workers as the diurnal rhythm is reversed.
-Exercise:     In untrained individual, in mild exercise the systolic blood pressure increases with decrease in diastolic blood pressure. In moderate exercise, both diastolic and systolic blood pressure increases. In severe exercise, there is a marked increase in systolic blood pressure and moderate increase in diastolic blood pressure.
- BP=CO X PR. Systolic Blood pressure depends on Cardiac output (CO) that increases due to sympathetic activity with increasing intensity of exercise. 
-Diastolic blood pressure increases with peripheral resistance (PR). The lumen size and PR ,varies with opposing forces of sympathetic causing vasoconstriction and accumulation of local vasodilator metabolites during exercise like carbon dioxide, adenosine that causing vasodilation. This explains the variation of diastolic blood pressure in untrained individual with varying grades of exercise
+Ans 4. Physiological factors affecting Blood Pressure
+
+- Age: 
+    Both diastolic blood pressure and Systolic blood pressure (SBP) increase with age. Systolic Blood pressure increases more than diastolic blood pressure due to decreased distensiblity. Systolic blood pressure is 100+age in years. However Diastolic blood pressure (DBP) decreases after 50-60 years of age.
+
+- Sex: 
+    In females, before menopause Systolic Blood Pressure is 4-5 mm Hg less than that in males of same age. After menopause SBP is 4-5 mm Hg more than males of same age. It is due to estrogen hormone which prevents atherosclerosis and is protective.
+
+- Body built: 
+    In obese individuals, the blood pressure gives high reading because there is more tissue present between cuff and artery. Higher pressure is needed to occlude the brachial.
+
+- Climate: 
+    Exposure to cold produces vasoconstriction and increases peripheral resistance via hypothalamus. Diastolic which is dependent on peripheral resistance primarily increases. Systolic blood pressures also increase.
+
+- When one shakes hands with a person during winter, his hands are cold due to peripheral vasoconstriction. This is a mechanism to conserve heat loss from periphery. Vasoconstriction decrease blood supply and heat loss by convection and radiation to environment is decreased. Diurnal variation: Diurnal variation of 5-10 mmHg is common in Systolic Blood Pressure. Peak values of SBP are seen in afternoon and lowest during early hours of morning. Its reverse is observed in night workers as the diurnal rhythm is reversed.
+
+- Exercise: 
+    In untrained individual, in mild exercise the systolic blood pressure increases with decrease in diastolic blood pressure. In moderate exercise, both diastolic and systolic blood pressure increases. In severe exercise, there is a marked increase in systolic blood pressure and moderate increase in diastolic blood pressure.
+    BP=CO X PR. Systolic Blood pressure depends on Cardiac output (CO) that increases due to sympathetic activity with increasing intensity of exercise. 
+- Diastolic blood pressure increases with peripheral resistance (PR). The lumen size and PR, varies with opposing forces of sympathetic causing vasoconstriction and accumulation of local vasodilator metabolites during exercise like carbon dioxide, adenosine that causing vasodilation. This explains the variation of diastolic blood pressure in untrained individual with varying grades of exercise.
 In trained individuals the systolic blood pressure increases and diastolic blood pressu0re remains same.
 Emotions: Excitement, fear, worry increase systolic blood pressure due to increase in cardiac couture secondary to increased sympathetic activity
 Gravity: The pressure in any vessel below heart level is increased and that above heart level is decreased due to the effect of gravity
@@ -720,7 +730,7 @@ Ans 1. No the kymograph can’t be used to record the bioelectric signals as it 
 
 Ans 2. Isotonic type of contraction has been demonstrated in the experiment.
 
-######Que.3. Explain why most of the experiments employ maximal stimuli.
+###### Que.3. Explain why most of the experiments employ maximal stimuli.
 
 Ans. The use of maximal stimuli enables us to know if all the motor units have been simultaneously activated.
 Que.4. Does the skeletal muscle fibre obey All or None law? Explain.
@@ -734,7 +744,7 @@ Neuro muscular transmission
 Excitation-contraction coupling
 Stretching of series elements, especially tendons
 Inertia of the recording lever.
-######Que.6. Recording the contraction and relaxation periods of the muscle twitch helps in classifying the skeletal muscle. Explain.
+###### Que.6. Recording the contraction and relaxation periods of the muscle twitch helps in classifying the skeletal muscle. Explain.
 
 Ans 6. The contraction and relaxation periods of the muscle twitch helps in classifying the skeletal muscle as:-
 Isotonic muscle contraction
@@ -763,7 +773,7 @@ LP,CP and RP are of shorter duration.
 Ans. 7. Cold ringer solution decreases the temperature of the muscle, thereby increases the viscosity and retarding some metabolic processes.  Hence depolarisation is slow, thereby resulting in the decreased velocity of response.
 Warm ringer solution increases the temperature of the muscle, thereby reducing its inertia and the synaptic delays are minimised.
 
-######Que.8. Which type of summation has been demonstrated to you: spatial or temporal?
+###### Que.8. Which type of summation has been demonstrated to you: spatial or temporal?
 
 Ans 8. Temporal summation 
  
@@ -805,7 +815,7 @@ Ans 15. The contraction remainder occurs in the fatigue muscle as the baseline r
 
 Ans 16. The possible sites of fatigue are neuromuscular junction, synapse in the brain etc. Yes, the nerve is indefatigable. Usually the site of fatigue in these experiments is neuromuscular junction.
 
-######Que.17. What are the differences in after loading and free loading contractions? Give examples of these conditions in the human body.
+###### Que.17. What are the differences in after loading and free loading contractions? Give examples of these conditions in the human body.
 Ans 17. 
 After loading
 Free loading
