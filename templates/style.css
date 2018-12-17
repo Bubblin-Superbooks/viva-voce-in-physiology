@@ -131,3 +131,22 @@ blockquote:after {
     margin-left: 0.5vw;
     vertical-align: -0.9vw;
 }
+
+
+figure { 
+  display: block; 
+  overflow: hidden; 
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+
+figcaption { 
+  text-align: center;
+  font-family: monospace;
+  font-size: 2.5vw;
+  padding: 1vw 0;  
+  color: black;
+  margin: 1vw auto;
+}

@@ -14,5 +14,6 @@
       "HEAD": "html"
     }
   ],
-  "book_id": 724
+  "book_id": 724,
+  "has_page_numbers": true
 }
